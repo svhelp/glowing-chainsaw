@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="modules">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Downloads/java_ee_sdk-7u2-web/glassfish4/glassfish/modules" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$USER_HOME$/Downloads/java_ee_sdk-7u2-web/glassfish4/glassfish/modules" recursive="false" />
+  </library>
+</component>
